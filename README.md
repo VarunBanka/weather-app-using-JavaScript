@@ -14,12 +14,5 @@ You can still check code
 
 
 # Usage
-Download the software from the given link
 
-Extract it
-
-Run index.html file
-
-# Download link
-https://github.com/VarunBanka/weather-app-using-JavaScript/archive/refs/heads/main.zip
-
+<a href="https://varunbanka.github.io/weather-app-using-JavaScript/">CLICK HERE</a>
