@@ -1,17 +1,16 @@
 /* Fetching Data from OpenWeatherMap API */
 let weather = {
-  apiKey: "aba6ff9d6de967d5eac6fd79114693cc",
+  apiKey: "6d055e39ee237af35ca066f35474e9df", // dont f with this api key, it does not belongs to me xd
   fetchWeather: function (city) {
     fetch(
       "https://api.openweathermap.org/data/2.5/weather?q=" +
         city +
         "&units=metric&appid=" +
         this.apiKey
-    )
       .then((response) => {
         if (!response.ok) {
-          alert("No weather found.");
-          throw new Error("No weather found.");
+          alert("Invalid location");
+          throw new Error("Invalid location");
         }
         return response.json();
       })
