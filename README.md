@@ -15,4 +15,12 @@ You can still check code
 
 # Usage
 
-<a href="https://varunbanka.github.io/weather-app-using-JavaScript/">CLICK HERE</a>
+Download the app
+
+Extract it
+
+Run index.html file
+
+# Download
+
+<a href="https://github.com/VarunBanka/weather-app-using-JavaScript/archive/refs/heads/main.zip">CLICK HERE</a>
