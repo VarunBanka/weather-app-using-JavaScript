@@ -12,6 +12,6 @@ You can still check code
 
 3. If you are wondering, I am not from California
 
-#Usage
+# Usage
 
 <a href="https://beauty-weather.netlify.app">CLICK HERE</a>
