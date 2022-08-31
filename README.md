@@ -12,15 +12,6 @@ You can still check code
 
 3. If you are wondering, I am not from California
 
+#Usage
 
-# Usage
-
-Download the app
-
-Extract it
-
-Run index.html file
-
-# Download
-
-<a href="https://github.com/VarunBanka/weather-app-using-JavaScript/archive/refs/heads/main.zip">CLICK HERE</a>
+<a href="https://beauty-weather.netlify.app">CLICK HERE</a>
