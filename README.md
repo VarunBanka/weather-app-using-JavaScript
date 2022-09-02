@@ -14,4 +14,4 @@ You can still check code
 
 # Usage
 
-<a href="https://beauty-weather.netlify.app">CLICK HERE</a>
+<a href="https://perfect-weather.netlify.app/">CLICK HERE</a>
