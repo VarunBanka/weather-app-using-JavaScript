@@ -4,7 +4,12 @@
 
 A fun weather app made using basic JavaScript 
 
-# Disclamer
+
+Thanks to <a href="https://linktr.ee/codescientist">codescientist</a> for promoting this project 
+
+ 
+
+## Disclamer
 1. Whole using this software, we need location permition but it is not stored infact we don't have access to the required location permision
 You can still check code
 
@@ -12,6 +17,10 @@ You can still check code
 
 3. If you are wondering, I am not from California
 
-# Usage
+## Usage
 
 <a href="https://perfect-weather.netlify.app/">CLICK HERE</a>
+
+## Code explanation 
+
+<a href="https://www.codingtorque.com/2022/09/realtime-weather-forecast-app-using.html?m=1">CLICK HERE</a>
