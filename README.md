@@ -9,8 +9,8 @@ Thanks to <a href="https://linktr.ee/codescientist">codescientist</a> for promot
 
  
 
-## Disclamer
-1. Whole using this software, we need location permition but it is not stored infact we don't have access to the required location permision
+## Disclaimer
+1. For using this software, we need location permission but it is not stored infact we don't have access to the required location permission
 You can still check code
 
 2. I have used a random api which I found online so don't use that api key
