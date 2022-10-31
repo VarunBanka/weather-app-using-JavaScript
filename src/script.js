@@ -39,6 +39,8 @@ let weather = {
   },
 };
 
+// code by Varun Banka 
+
 /* Fetching Data from OpenCageData Geocoder */
 let geocode = {
   reverseGeocode: function (latitude, longitude) {
